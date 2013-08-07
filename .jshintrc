@@ -4,16 +4,18 @@
 
     "curly": true,
     "eqeqeq": true,
+    "newcap": true,
     "noarg": true,
     "nonew": true,
+    "quotmark": "double",
     "trailing": true,
     "undef": true,
+    "unused": true,
 
     "globals": {
         "bootstrap": false,
         "cajaVM": false,
         "define": false,
-        "Q": true,
         "ReturnValue": false,
         "ses": false,
         "setImmediate": false
